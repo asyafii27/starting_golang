@@ -1,0 +1,9 @@
+** tipe data integer
+ada tipe data int, uint (unsigned integer)
+
+** tipe data floating point
+float32, float64, complex64, complex128
+
+** tipe data alias
+byte, rune, int, uint
+

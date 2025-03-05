@@ -1,0 +1,4 @@
+Tipe data string
+
+- string ada tipe data kumpulan karakter
+- jumlah karakter di dalam string 

@@ -1,0 +1,11 @@
+######### string
+
+1. string adalah tipe data kumpulan karakter
+2. Jumlah karakter di dalam string bisa sampai tak terhingga
+3. Tipe data string di Go Lang direpresentasikan dengan kata kunci string
+4. Nilai tipe data string di golang selalu diawali dan diakhiri dengan karakter petik dua ("...")
+
+
+len("string") => dgunakan untuk menghitung jumlah karakter string
+"string"[number] => digunakan untuk mengambil karakter pada posisi yang ditentukan
+ 

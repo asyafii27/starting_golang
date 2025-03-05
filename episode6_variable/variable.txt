@@ -1,0 +1,19 @@
+######### Variable
+
+1. Variable adalah tempat untuk menyimpan data 
+2. Variable digunakan agar kita bisa mengakses datan yang sama dimanapun kita mau
+3. Variable hanya bisa menyimpan tipe data yang sama, jika kita ingin menyimpan data yang berbeda jenis, kita harus membuat beberapa Variable
+4. Untuk membuat variable, kita bisa menggunakan kata kunci 'var', lalu diikuti dengan nama variable dan tipe datanya
+
+################################################################
+Saat kita membuat variable, maka kita wajib menyebutkan tipe data variable tersebut
+namun, jika kita langsung menginisialisasikan data pada variable nya, maka kita tidak wajib menyebutkan tipe daya variablenya
+
+################################################################
+1. Pda golang, kata kunci var saat membuat variable itu tidak wajib, Asalkan pada saat membuat variable langsung menginisialisasikan datanya
+2. Agar tidak perlu menggunakan kata kunci var, kita perlu menggunakan kata kunci := saat menginisialisasikan data pada variable tersebut
+
+###############################################################
+Deklarasikan multiple variable
+1. Kita bisa membuat variable secara sekaligus banyak
+2. Cpde yang dibuat akan lebih bagus dan mudah dibaca

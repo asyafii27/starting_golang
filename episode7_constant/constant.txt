@@ -1,0 +1,3 @@
+#### Constant
+1. Adalah variable yang  nilainya tidak bisa diubah lagi setelah pertma kali diberikan nilainya
+2. Cara pembuatan Constant mirip dengan variable, yang membedakan hanya kata kunci yang digunakan adalah const, bukan variablesaat pembuatan constant, kita wajib langsung menginisialisasikan datanya
