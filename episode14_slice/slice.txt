@@ -1,0 +1,30 @@
+SLICE
+- potongan dari data array
+- mirip dengan array, yang membedakannya adalah ukuran slice bisa berubah
+- slice dan array selalu terkoneksi, dimana slice adalah data yang mengakses sebagian atau seluruh data array
+- tipe data slice memiliki 3 data, yaitu pointer, length, dan capacity
+- pointer adalah penunjuk data pertama di array para slice
+- length adalah panjang dri slice
+- capacity adalah kapasitas dari slice, dimana length tidak boleh lebih dari capacity
+
+membuat slice
+array[low:high]         => membuat slice dari array dimulai index low sampai index sebelum high
+array[low:]             => membuat slide dari array dimulai index low sampai index akhir di array
+array[:high]            => membuat slice dari array dimulai index 0 sampai index sebelum high
+array[:]                => membuat slice dari array dimulai index 0 sampai index akhir di array
+
+
+contoh terdapat array [0 - 11]
+slice1 = array[4:7]
+pointer = 4
+length = 3
+capacity = 8
+array[4:7] => dimulai dari index ke 4 sampai index ke 
+
+FUNCTION YANG ADA PADA SLICE
+Operator                            | Keterangan
+len(slice)                          => untuk mendapatkan panjang
+cap(slice)                          => untuk mendapatkan kapasitas
+append(slice, data)                 => membuat slice baru dengan menambah data ke posisi terkhir slice, jika kapasitas sudah penh, maka akan membuat array baru
+make(typeData, length, capacity)    => membuat slice baru
+copy(destination, source)           => menyalin slice dari source ke destination
