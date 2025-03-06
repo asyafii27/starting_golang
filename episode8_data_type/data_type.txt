@@ -1,0 +1,2 @@
+Tpe datanya1. di Golang kadang kita butuh melakukan konversi tipe data dari satu ke tipe yang lain
+Misal kita ingin mengonversi tipe data int32 ke int63, dan lain lain

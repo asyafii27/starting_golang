@@ -1,0 +1,4 @@
+Type Declaration
+
+- Merupakan kemampuan untuk membuat ulang tipe data baru dari tipe data yang sudah ada
+- biasanya digunakan untuk membuat alias terhdap tipe dayta yang sudah ada, dengan tujuan agar lebih mudah dimengerti

@@ -1,0 +1,4 @@
+Array
+
+- merupakan tipe data yang berisikan kumpulan data dengan tipe data yang sama
+- saat membuat array, kita perlu menentukan 

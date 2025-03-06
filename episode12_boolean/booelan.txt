@@ -1,0 +1,5 @@
+Operasi Booelan
+Operator                Keterangan
+&&                          dan
+||                          atau
+!                           kebalikan

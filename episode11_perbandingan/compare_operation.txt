@@ -1,0 +1,13 @@
+operasi perbandingan di Golang
+- merupakan operasi untuk membandingkan dua buah data
+- operasi yang menghasilkan nilai Booelan benar atau salah
+- jika hasil operasinya adalah benar, maka nilainya adalah true
+- jika hasil operasinya adalah salah, maka nilainya adalah false
+
+Operator        => Keterangan
+>                   Lebih dari
+<                   kurang dari
+>=                  lebih dari sama dengan
+<=                  kurang dari sama dengan
+==                  sama dengan
+!=                  tidak sama dengan
