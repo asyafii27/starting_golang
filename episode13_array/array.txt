@@ -1,4 +1,15 @@
 Array
 
 - merupakan tipe data yang berisikan kumpulan data dengan tipe data yang sama
-- saat membuat array, kita perlu menentukan 
+- saat membuat array, kita perlu menentukan jumlah data yang bisa ditampung oleh array tersebut
+- Daya tampung array tidak bisa bertambah setelah array dibuat
+
+Index               data
+0                   Eko
+1                   Kurniawan
+2                   Khannedy
+
+Operasi                 Keterangan
+len(array)              untuk mendapatkan panjang array
+array[Index]            mendapatkan data di posisi Index
+arrat[index] = value    mengubah data di posisi index
