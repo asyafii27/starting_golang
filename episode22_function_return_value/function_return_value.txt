@@ -1,0 +1,5 @@
+FUNCTION RETURN VALUE
+- funtion bisa mengembalikan data
+- untuk memberi tahu bahwa funtion mengembalikan data, kita harus menuliskan tipe data kembalian dari function tersebut
+- jika function tersebut kita deklarasikan dengan tipe data pengembalian, maka wajib di dalam functionnya kita harus mengembalikan data
+- untuk mengembalikan data dari function, kita bisa menggunakan kta kunci return =, diikuti dengan datanya

@@ -1,0 +1,13 @@
+FOR
+
+- Dalam bahasa pemrograman, biasany ada fitur yang bernama perulangan
+- Salah satu fitu perulangan adalah for loops
+
+FOR DENGAN STATEMENT
+- Dalam for, kita bisa menambahkan STATEMENT, dimana terdapat 2 STATEMENT yang bisa ditambahkan di for
+- INIT STATEMENT, yaitu STATEMENT sebelum for dieksekusi
+- POST STATEMENT, yaitu STATEMENT yang akan selalu dieksekusi di akhir tiap perulangan
+
+FOR RANGE
+- FOR bisa digunakan untuk melakukan iterasi terhadap semua data collection
+- Data collection contohnya Array, Slice, dan map

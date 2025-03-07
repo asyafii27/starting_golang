@@ -1,0 +1,20 @@
+package main
+
+import "fmt"
+
+func main() {
+	for i := 0; i < 10; i++ {
+		if i == 5 {
+			break
+		}
+
+		fmt.Println("Perulangan ke", i)
+	}
+	/*output
+	Perulangan ke 0
+	Perulangan ke 1
+	Perulangan ke 2
+	Perulangan ke 3
+	Perulangan ke 4
+	*/
+}

@@ -1,0 +1,4 @@
+BREAK dan CONTINUE
+- adalah kata kunci yang bisa digunakan dalam perulangan
+- Break digunakan untuk menghentikan seluruh perulangan
+- continue digunakan untuk menghentikan perulangan yang berjalan, dan langsung melanjutkan ke perulangan selanjutnya
