@@ -1,0 +1,4 @@
+RECURSIVE FUNCTION
+- resursive function adalah function yang memanggil dirinya sendiri
+- kadang dalam pekerjaan, kita sering menemui kasus dimana menggunakan RECURSIVE function lebih mudah dibandingkan tidak menggunakan recursive function
+- consoh kasus yang lebih mudah diselesiakna menggunakan recursive function adalah faktorial

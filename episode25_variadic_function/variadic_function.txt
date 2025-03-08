@@ -1,0 +1,3 @@
+SLICE PARAMETER
+- kadang ada kasus dimana kita menggunakan variadic function, namun memiliki variable berupa SLICE
+- kita bisa menjadikan slice sebagai var PARAMETER

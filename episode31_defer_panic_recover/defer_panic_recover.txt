@@ -1,0 +1,4 @@
+DEFER
+- merupakan function yang bisa kita jadwalkan untuk dieksekusi setelah sebuah function selesai dieksekusi
+- akan selalu dieksekusi walaupun terjadi error di function yang dieksekusi
+

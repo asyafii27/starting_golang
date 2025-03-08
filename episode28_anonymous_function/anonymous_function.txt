@@ -1,0 +1,4 @@
+ANONYMOUS FUNCTION
+- sebelumnya, setiap membuat function, kita akan selalu memberikan sebuah nama pada function tersebut
+- namun, kadang ada kalanya lebih mudah membuat function secara langsung di variable atau PARAMETER tanpa harus membuat functio terlebih dahulu
+- hal tersebut dinamakan anonymous function, atau function tanpa nama

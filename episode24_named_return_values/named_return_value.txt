@@ -1,0 +1,3 @@
+NAMED RETURN VALUES
+- biasanya kita memberitahu bahwa sebuah function mengembalikan values, maka kita hanya mendeklarasikan tipe data return di function
+- namun, kita huga bisa membuat variable secara langsung di tipe data return functionnya

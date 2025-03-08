@@ -1,0 +1,4 @@
+FUNCTION VALUE
+- function adalah first class citizen
+- function juga merupakan tipe data dan bisa disimpan di dalam variable
+

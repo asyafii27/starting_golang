@@ -1,0 +1,7 @@
+FUNCTION AS PARAMETER
+- function tidak hanya bisa kita simpan di dalam variable sebagai VALUE
+- namun juga bisa kita gunakan sebagai PARAMETER untuk function lain
+
+FUNCTION TYPE DECLARATIONS
+- kadang jika function terlalu panjang, agak ribet untuk menuliskannya di dalam PARAMETER
+- type DECLARATIONS juga bisa digunakan untuk membuat alias function, sehingga akan mempermudah kita menggunakan function sebagai PARAMETER

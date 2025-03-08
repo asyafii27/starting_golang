@@ -1,0 +1,3 @@
+CLOSURES
+- closures adalah kemampuan sebuah function berinteraksi dengan data data di sekitarnya dalam scope yang sama
+- harap gunakan fitur dengan bijak saaat kita membuat sebuah aplikasi
