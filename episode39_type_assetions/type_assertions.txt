@@ -1,0 +1,8 @@
+TYPE ASSERTIONS
+- merupakan kemampuan merubah tipe data menjadi tipe data yang diinginkan 
+- fitur ini sering kali digunakan ketika kita bertemu dengan data inference kosong
+
+TYPE ASSETIONS MENGGUNAKAN SWITCH
+- saat salah menggunakan type assertions, maka bisa berakibat terjadi panic di aplikasi kita
+- jika panic dan tidak ter-cover, maka otomatis program kita akan mengimplementasikan
+- Agar lebih aman, sebaiknya kita menggunakan switch expression untuk melakukan type assertions

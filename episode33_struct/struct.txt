@@ -1,0 +1,13 @@
+STRUCT
+- merupakan sebuah template data yang digunakan untuk menggavungkan nol atau lebih tipe data lainnya dalam satu kesatuan
+- struct biasanya representasi data dalam program aplikasi yang kita buat
+- Data struct disimpan dalam field
+- sederhananya struct adalah kumpulan dari field
+
+MEMBUAT DATA STRUCT
+- struct adalah template data atau prototype data
+- struct tidak bisa langsung digunakan
+- namun kita bisa membuat data/object dari struct yang telah kita buat
+
+STRUCT Literals
+- sebelumnya kita telah membuat data dari struct, namun sebenarnya ada banyak cara yang bisa kita gunakan untuk membuat data dari struct

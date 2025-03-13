@@ -1,0 +1,4 @@
+STRUCT METHOD
+- merupakan tipe data seperti tipe data lainnya, dia bisa digunakan sebagai paramater untuk function
+- Namun, jika kita ingin menambahkan method ke dalam structs, sehingga seakan akan sebuah structs memiliki function
+- method adalah function

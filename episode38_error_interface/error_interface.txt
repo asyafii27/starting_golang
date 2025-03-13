@@ -1,0 +1,3 @@
+ERROR INTERFACE
+- golang memiliki interface yang digunakan sebagai kontrak untuk membuat error, nama interface nya adalah error
+- untuk membuat errir, kita tidak perlu manualgoalng sudah menyediakan library untuk membuat helper secara mudah, yang terdapat di package errors

@@ -2,3 +2,11 @@ DEFER
 - merupakan function yang bisa kita jadwalkan untuk dieksekusi setelah sebuah function selesai dieksekusi
 - akan selalu dieksekusi walaupun terjadi error di function yang dieksekusi
 
+PANIC
+- merupakan function yang bisa kita gunakan untuk menghentikan program
+- panic function biasanya dipanggil ketika terjadi error pada saat program kita berjalan
+- saat panic function dipanggil, program akan terhenti. namun DEFER function tetap akan dieksekusi
+
+RECOVER
+- adalah function yang bisa kita gunakan untuk menangkap data panic
+- Dengan recover proses panic akan terhenti, sehingga program akan tetap berjalan
